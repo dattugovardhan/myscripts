@@ -1,2 +1,3 @@
 # myscripts
-HELLO Dattu
+HELLO DATTU_AWS
+bye
